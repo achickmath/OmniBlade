@@ -87,6 +87,4 @@ Full mapping in the user guide.
 - Some power banks auto-shutoff at low current draw
 - vgamepad requires the correct Python environment on Windows
 
----
 
-Built at Georgia Tech.
